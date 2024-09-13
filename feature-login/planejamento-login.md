@@ -1,0 +1,1 @@
+Aqui será descrito o planejamento de atividades para desenvolvimento da feature login.
